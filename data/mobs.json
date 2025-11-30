@@ -1,0 +1,16 @@
+[
+  {
+    "id": "slime_t1",
+    "name": "Slime",
+    "tier": 1,
+    "level": 1,
+    "hp": 6,
+    "ac": 10,
+    "attack": {
+      "damage": "1d4",
+      "mod": 0
+    },
+    "xp_yield": 100,
+    "drops": ["slime_gel"]
+  }
+]

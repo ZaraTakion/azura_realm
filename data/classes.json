@@ -1,0 +1,16 @@
+{
+  "Barbarian": { "hit_die": 12 },
+  "Fighter":   { "hit_die": 10 },
+  "Paladin":   { "hit_die": 10 },
+  "Ranger":    { "hit_die": 10 },
+
+  "Bard":      { "hit_die": 8 },
+  "Cleric":    { "hit_die": 8 },
+  "Druid":     { "hit_die": 8 },
+  "Monk":      { "hit_die": 8 },
+  "Rogue":     { "hit_die": 8 },
+  "Warlock":   { "hit_die": 8 },
+
+  "Sorcerer":  { "hit_die": 6 },
+  "Wizard":    { "hit_die": 6 }
+}

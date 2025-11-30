@@ -1,0 +1,9 @@
+[
+  {
+    "id": "slime_gel",
+    "name": "Gel de Slime",
+    "type": "resource",
+    "tier": 1,
+    "value": 5
+  }
+]
